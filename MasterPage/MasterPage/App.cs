@@ -18,7 +18,7 @@ namespace MasterPage
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!Hi!ChengHau"
+							Text = "Hi!ChengHau2"
 						}
 					}
 				}
